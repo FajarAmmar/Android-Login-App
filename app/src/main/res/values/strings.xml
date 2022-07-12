@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="fajarapp">FajarApp</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_you_password">Forgot You Password?</string>
+    <string name="or_sign_in_with">or sign in with</string>
+</resources>
